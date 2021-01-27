@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyUnitsEksamenA", "BabyUnitsEksamenA\BabyUnitsEksamenA.csproj", "{3C2856D1-0106-43D4-9536-CA0130FA9FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test for auto db", "test for auto db\test for auto db.csproj", "{ECA1A2C0-CD79-4284-BD45-7EEFB47D7027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2856D1-0106-43D4-9536-CA0130FA9FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2856D1-0106-43D4-9536-CA0130FA9FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2856D1-0106-43D4-9536-CA0130FA9FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2856D1-0106-43D4-9536-CA0130FA9FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA1A2C0-CD79-4284-BD45-7EEFB47D7027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA1A2C0-CD79-4284-BD45-7EEFB47D7027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA1A2C0-CD79-4284-BD45-7EEFB47D7027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA1A2C0-CD79-4284-BD45-7EEFB47D7027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FCE5C62-D7E4-4BA7-93E2-B8E398331CB6}
+	EndGlobalSection
+EndGlobal
